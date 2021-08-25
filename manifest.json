@@ -1,11 +1,13 @@
 {
   "dir": "auto",
   "display": "standalone",
-  "name": "null",
+  "name": "1만 시간의 법칙",
   "short_name": "시간의 법칙",
   "lang": "ko",
   "theme_color": "none",
   "background_color": "none",
+  "start_url": "https://wenivbinky.github.io/10000hours_PWA/",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "images/71x71.png",
@@ -679,5 +681,6 @@
       "sizes": "1024x1024",
       "purpose": "any"
     }
-  ]
+  ],
+  "screenshots": []
 }
