@@ -312,3 +312,528 @@ button {
     padding: 20px 0;
     text-align: center;
 }
+
+
+@media all and (min-width: 320px) and (max-width: 359px) {
+    .wrapper {
+        margin-top: 20px;
+    }
+
+    .title {
+        margin-bottom: 30px;
+    }
+
+    .title .clock_img {
+        width: 125px;
+        height: 126px;
+    }
+
+    .title_img {
+        width: 267px;
+    }
+
+    .intro {
+        margin-bottom: 30px;
+    }
+
+    .intro .intro_saying {
+        font-size: 22px;
+        margin-bottom: 30px;
+    }
+
+    .intro .explain {
+        margin-bottom: 30px;
+    }
+
+    .intro .quotes {
+        padding-top: 10px;
+        width: 270px;
+    }
+
+    .intro .quotes img {
+        width: 100%;
+        height: auto;
+    }
+
+    .intro .explain p {
+        font-size: 13px;
+        line-height: 1.5;
+        padding: 0 50px;
+        word-break: keep-all;
+    }
+
+    .intro .explain span {
+        font-size: 13px;
+    }
+
+    .inputs {
+        font-size: 13px;
+        margin-bottom: 20px;
+    }
+
+    .inputs div {
+        margin-bottom: 10px;
+    }
+
+    .inputs input {
+        padding: 10px 10px;
+        margin: 0 5px;
+        font-size: 13px;
+        width: 90px;
+    }
+
+    .inputs .time {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .inputs .time > p {
+        margin-bottom: 10px;
+    }
+
+    button {
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+
+    .start {
+        margin-bottom: 30px;
+    }
+
+    .start button {
+        width: 200px;
+        border-radius: 15px;
+    }
+
+    .start .click_img {
+        width: 43px;
+        height: 48px;
+        right: -45px;
+        bottom: -10px;
+    }
+
+    .start .click_img img {
+        width: 100%;
+        height: auto;
+    }
+
+    .result_loading {
+        margin-bottom: 30px;
+    }
+
+    .result_loading .img_wrap {
+        width: 40px;
+        height: 40px;
+    }
+
+    .result {
+        margin-bottom: 30px;
+    }
+
+    .result .result_wrap div {
+        line-height: 2;
+        font-size: 14px;
+        padding: 0 10px;
+    }
+
+    .result .result_wrap div:first-child {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .result span {
+        padding: 0 5px;
+        font-size: 20px;
+    }
+
+    .buttons {
+        margin-top: 30px;
+    }
+
+    .buttons .share button {
+        margin-left: 10px;
+    }
+
+    #modal .modal_wrap {
+        width: 270px;
+        height: 400px;
+    }
+
+    #modal .cheer h1 {
+        font-size: 40px;
+    }
+
+    #modal .cheer h3 {
+        font-size: 25px;
+    }
+
+    #modal .licat_img {
+        width: 200px;
+        margin-bottom: 20px;
+    }
+
+    #modal .licat_img img {
+        width: 100%;
+        height: auto;
+    }
+
+    #modal .close_btn {
+        width: 241px;
+        border-radius: 15px;
+        padding: 10px 40px;
+    }
+
+    #modal .btn p {
+        font-size: 10px;
+    }
+
+    #copyright {
+        padding-bottom: 0;
+    }
+
+    #copyright .logo_img {
+        width: 91px;
+    }
+
+    #copyright .logo_img img {
+        width: 100%;
+        height: auto;
+    }
+
+    #copyright p {
+        line-height: 1.5;
+        padding: 15px 50px;
+        word-break: keep-all;
+    }
+}
+
+@media all and (min-width: 360px) and (max-width: 450px) {
+    .wrapper {
+        margin-top: 20px;
+    }
+
+    .title {
+        margin-bottom: 50px;
+    }
+
+    .title .clock_img {
+        width: 125px;
+        height: 126px;
+    }
+
+    .title_img {
+        width: 267px;
+    }
+
+    .intro {
+        margin-bottom: 50px;
+    }
+
+    .intro .intro_saying {
+        font-size: 25px;
+        margin-bottom: 50px;
+    }
+
+    .intro .explain {
+        margin-bottom: 50px;
+    }
+
+    .intro .quotes {
+        padding-top: 10px;
+        width: 350px;
+    }
+
+    .intro .quotes img {
+        width: 100%;
+        height: auto;
+    }
+
+    .intro .explain p {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+
+    .intro .explain span {
+        font-size: 14px;
+    }
+
+    .inputs {
+        font-size: 15px;
+        margin-bottom: 30px;
+    }
+
+    .inputs div {
+        margin-bottom: 20px;
+    }
+
+    .inputs input {
+        padding: 10px 15px;
+        margin: 0 10px;
+        font-size: 15px;
+        width: 100px;
+    }
+
+    .inputs .time {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .inputs .time > p {
+        margin-bottom: 20px;
+    }
+
+    button {
+        font-size: 15px;
+        padding: 10px 25px;
+    }
+
+    .start {
+        margin-bottom: 50px;
+    }
+
+    .start button {
+        width: 241px;
+        border-radius: 15px;
+    }
+
+    .start .click_img {
+        width: 43px;
+        height: 48px;
+        right: -50px;
+        bottom: -10px;
+    }
+
+    .start .click_img img {
+        width: 100%;
+        height: auto;
+    }
+
+    .result_loading {
+        margin-bottom: 50px;
+    }
+
+    .result_loading .img_wrap {
+        width: 50px;
+        height: 50px;
+    }
+
+    .result {
+        margin-bottom: 50px;
+    }
+
+    .result .result_wrap div {
+        font-size: 15px;
+    }
+
+    .result span {
+        padding: 0 10px;
+        font-size: 25px;
+    }
+
+    .buttons {
+        margin-top: 50px;
+    }
+
+    .buttons .share button {
+        margin-left: 10px;
+    }
+
+    #modal .modal_wrap {
+        width: 330px;
+        height: 450px;
+    }
+
+    #modal .cheer h1 {
+        font-size: 60px;
+    }
+
+    #modal .licat_img {
+        width: 250px;
+        margin-bottom: 20px;
+    }
+
+    #modal .licat_img img {
+        width: 100%;
+        height: auto;
+    }
+
+    #modal .close_btn {
+        width: 241px;
+        border-radius: 15px;
+        padding: 10px 40px;
+    }
+
+    #modal .btn p {
+        font-size: 10px;
+    }
+
+    #copyright {
+        padding-bottom: 20px;
+    }
+
+    #copyright .logo_img {
+        width: 91px;
+    }
+
+    #copyright .logo_img img {
+        width: 100%;
+        height: auto;
+    }
+
+    #copyright p {
+        line-height: 1.5;
+        padding: 15px 0;
+    }
+}
+
+@media all and (min-width: 451px) and (max-width: 767px) {
+    .wrapper {
+        margin-top: 40px;
+    }
+
+    .title {
+        margin-bottom: 40px;
+    }
+    
+    .title .clock_img {
+        width: 180px;
+        height: 180px;
+    }
+    
+    .title_img {
+        width: 430px;
+    }
+    
+    .intro {
+        margin-bottom: 20px;
+    }
+    
+    .intro .intro_saying {
+        font-size: 30px;
+        margin-bottom: 40px;
+    }
+    
+    .intro .explain {
+        margin-bottom: 80px;
+    }
+    
+    .intro .quotes {
+        padding-top: 15px;
+        width: 430px;
+    }
+
+    .intro .quotes img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .intro .explain span {
+        font-size: 17px;
+    }
+    
+    .inputs {
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    
+    .inputs div {
+        margin-bottom: 20px;
+    }
+    
+    .inputs input {
+        font-size: 18px;
+        width: 170px;
+    }
+
+    .inputs .time {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .inputs .time > p {
+        margin-bottom: 20px;
+    }
+    
+    button {
+        font-size: 18px;
+        border-radius: 30px;
+    }
+
+    .start {
+        margin-bottom: 60px;
+    }
+
+    .start button {
+        border-radius: 20px;
+        width: 300px;
+    }
+
+    .start .click_img {
+        width: 53px;
+        height: 58px;
+        right: -55px;
+        bottom: -10px;
+    }
+
+    .start .click_img img {
+        width: 100%;
+        height: auto;
+    }
+    
+    .result_loading {
+        margin-bottom: 60px;
+    }
+    
+    .result_loading .img_wrap {
+        width: 70px;
+        height: 70px;
+    }
+    
+    .result {
+        line-height: 1.5;
+        margin-bottom: 60px;
+    }
+    
+    .result .result_wrap div {
+        padding: 0 20px;
+        font-size: 18px;
+    }
+    
+    .result span {
+        padding: 0 10px;
+        font-size: 30px;
+    }
+    
+    .buttons {
+        margin-top: 60px;
+    }
+    
+    .buttons .share button {
+        margin-left: 10px;
+    }
+
+    #modal .modal_wrap {
+        width: 430px;
+        height: 500px;
+    }
+
+    #modal .cheer h1 {
+        font-size: 60px;
+    }
+
+    #modal .licat_img {
+        width: 300px;
+        margin-bottom: 20px;
+    }
+
+    #modal .licat_img img {
+        width: 100%;
+        height: auto;
+    }
+
+    #modal .close_btn {
+        width: 300px;
+        border-radius: 15px;
+        padding: 10px 40px;
+    }
+}
