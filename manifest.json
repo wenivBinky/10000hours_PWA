@@ -4,8 +4,8 @@
   "name": "1만 시간의 법칙",
   "short_name": "시간의 법칙",
   "lang": "ko",
-  "theme_color": "none",
-  "background_color": "none",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
   "start_url": "https://deb0-118-43-233-147.ngrok.io/",
   "orientation": "portrait",
   "icons": [
